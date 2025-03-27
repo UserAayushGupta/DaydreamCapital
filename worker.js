@@ -1,3 +1,5 @@
+`npx wrangler deploy src/index.ts`
+  
 /* CONFIGURATION STARTS HERE */
 
 /* Step 1: enter your domain name like fruitionsite.com */
