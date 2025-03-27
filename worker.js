@@ -1,4 +1,3 @@
-`npx wrangler deploy src/index.ts`
   
 /* CONFIGURATION STARTS HERE */
 
